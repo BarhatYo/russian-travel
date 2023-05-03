@@ -1,0 +1,17 @@
+.trains__title {
+    width: 560px;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 1.06;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    padding-bottom: 32px;
+}
+
+@media screen and (max-width: 320px) {
+    .trains__title {
+        font-size: 32px;
+        width: 288px;
+    } 
+}

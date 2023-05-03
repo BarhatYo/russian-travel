@@ -1,0 +1,19 @@
+.trains {
+    max-width: 1184px;
+    margin: auto;
+    padding-top: 12px;
+}
+
+@media screen and (max-width: 1024px) {
+    .trains {
+        max-width: 1024px;
+        max-height: 640px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .trains {
+        width: 100%;
+        max-height: 480px
+    }
+}

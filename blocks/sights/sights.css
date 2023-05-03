@@ -1,0 +1,24 @@
+.sights {
+    max-width: 984px;
+    margin: auto;
+    padding-top: 92px;
+}
+
+@media screen and (max-width: 1024px) {
+    .sights {
+        padding: 92px 48px 0;
+    } 
+}
+
+@media screen and (max-width: 768px) {
+    .sights {
+        padding: 88px 24px 0;
+    } 
+}
+
+@media screen and (max-width: 768px) {
+    .sights {
+        padding: 64px 16px 0;
+    } 
+}
+
