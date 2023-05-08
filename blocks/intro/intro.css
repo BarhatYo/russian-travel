@@ -1,17 +1,17 @@
-.places {
+.intro {
   max-width: 984px;
   margin: 0 auto;
   padding: 92px 48px 0;
 }
 
 @media screen and (max-width: 768px) {
-  .places {
+  .intro {
     padding: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .places {
+  .intro {
     padding: 64px 16px 0;
   }
 }
