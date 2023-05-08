@@ -2,7 +2,7 @@
 
 ### Ссылка на проект
 
-[russian-travel] (https://github.com/BarhatYo/russian-travel "Проект russian-travel")
+[russian-travel] (https://github.com/BarhatYo/russian-travel)
 
 **О проекте**
 
