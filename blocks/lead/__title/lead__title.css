@@ -10,17 +10,14 @@
 
 @media screen and (max-width: 768px) {
   .lead__title {
-    max-width: 720px;
     padding: 48px 24px 0;
-    font-size: calc((100vw - 320px)/(786 - 320) * (96 - 40) + 40px);
+    font-size: calc((100vw - 320px)/(768 - 320) * (96 - 40) + 40px);
   }
 }
 
 @media screen and (max-width: 576px) {
   .lead__title {
-    max-width: 720px;
     line-height: 1.1;
     padding: 48px 16px 0;
-    font-size: calc((100vw - 320px)/(786 - 320) * (96 - 40) + 40px);
   }
 }

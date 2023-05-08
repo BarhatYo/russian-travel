@@ -9,6 +9,6 @@
 @media screen and (max-width: 768px) {
   .intro__title {
     max-width: 720px;
-    font-size: calc((100vw - 288px)/(720 - 288) * (54 - 32) + 32px);
+    font-size: calc((100vw - 320px)/(768 - 320) * (54 - 32) + 32px);
   }
 }

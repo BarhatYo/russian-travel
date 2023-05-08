@@ -8,10 +8,17 @@
   padding: 0;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
+  .footer__link-list {
+    font-size: calc( (100vw - 576px)/(768 - 576) * (16 - 12) + 12px);;
+  }
+} 
+
+@media screen and (max-width: 576px) {
   .footer__link-list {
     flex-direction: column;
     font-size: 24px;
+    line-height: 1;
     gap: 32px;
   }
 }
