@@ -10,8 +10,15 @@
 
 @media screen and (max-width: 576px) {
   .lead__subtitle {
-    font-size: calc((100vw - 288px)/(640 - 288) * (30 - 16) + 16px);
+    font-size: calc((100vw - 320px)/(576 - 320) * (30 - 16) + 16px);
     line-height: 1.25;
     padding-top: 16px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+    max-width: 288px;
+  }
+}
+
